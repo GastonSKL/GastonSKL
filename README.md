@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently improving my skills as a junior Front End Developer<br>👯 I’m looking to collaborate on small and large proyects<br>🤝 I’m looking for my first job experience as a software developer<br>🌱 I’m currently learning React js and Node js<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
+🔭 I’m currently in the search for new challenges for my professional career<br>👯 Looking foward to collaborate on small and large projects<br>🤝 Eager to get my first job experience as a software developer<br>🌱 Currently learning React js and Node js<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
 
 
 ## 🌐 Socials:
