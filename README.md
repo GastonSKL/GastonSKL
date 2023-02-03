@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Gaston Lucero Skamlec! <img src="https://media3.giphy.com/media/pcKoCj9OlpdbMnwOc7/giphy.gif?cid=ecf05e47o3prf8y4x3eq19veldn1mtyxv9pcihyrdl721u8n&rid=giphy.gif&ct=s" width="70" ></h2>
 <img align='right' src="https://media3.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif?cid=ecf05e47bp8b6xhhnkrascgwxi9qfi8r3ul291zcppm2gxuy&rid=giphy.gif&ct=s" width="230">
-🔭 Software developer student at Universidad de La Punta<br>🌱 Currently learning React js and Node js<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
+🔭 Software developer at BeClever and student at Universidad de La Punta!<br>🌱 Currently learning React js and Node js, and working with C# and .NET<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-skamlec-8bb339201) 
@@ -8,9 +8,9 @@
 ```javascript
 const gastonSKL = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java, C++],
-  tools: [React, Redux],
- challenge: "I am currently working in new challenges for my self, focusing on React"
+  code: [Javascript, HTML, CSS, Java, C++, c#],
+  tools: [React, Redux, .Net],
+ challenge: "I am currently working in new challenges for my self, focusing on .Net and React"
 }
 ```
 
