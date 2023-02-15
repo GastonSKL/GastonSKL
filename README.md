@@ -9,8 +9,8 @@
 const gastonSKL = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java, C++, c#],
-  tools: [React, Redux, .Net],
- challenge: "I am currently working in new challenges for my self, focusing on .Net and React"
+  tools: [React, Redux, .Net, Vue3.Js],
+ challenge: "I am currently working in new challenges for my self, focusing on .Net and Vue3.js"
 }
 ```
 
