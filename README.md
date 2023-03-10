@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Gaston Lucero Skamlec! <img src="https://media3.giphy.com/media/pcKoCj9OlpdbMnwOc7/giphy.gif?cid=ecf05e47o3prf8y4x3eq19veldn1mtyxv9pcihyrdl721u8n&rid=giphy.gif&ct=s" width="70" ></h2>
 <img align='right' src="https://media3.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif?cid=ecf05e47bp8b6xhhnkrascgwxi9qfi8r3ul291zcppm2gxuy&rid=giphy.gif&ct=s" width="230">
-🔭 Software developer at BeClever and student at Universidad de La Punta!<br>🌱 Currently learning React js and Node js, and working with C# and .NET<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
+🔭 Software developer at BeClever and student at Universidad de La Punta!<br>🌱 Currently learning React js and Node js, and working with C# .NET and Vue 3<br>💬 You can contact me via email at gastonlskamlec@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-skamlec-8bb339201) 
